@@ -4,9 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+
 namespace Wage.Core
 {
-    public class Class1
+    /// <summary>
+    /// 工资的帐套
+    /// </summary>
+    public class Account
     {
     }
 }
